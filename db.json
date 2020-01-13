@@ -12,8 +12,7 @@
   "profile": {
     "name": "typicode"
   },
-  "token" :
-  {
+  "token": {
     "LTPA": "tokenvalue"
   }
 }
